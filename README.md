@@ -1,4 +1,4 @@
-# Binary Converter
+# [Binary Converter](https://roshini-n.github.io/BinaryConvertor/BinaryPage.html)
 
 **Description**  
 Binary Converter is a simple Android application that converts a given integer into its 32-bit binary representation. It also includes an implicit intent feature that allows users to navigate to an external website to learn more about the binary number system.
